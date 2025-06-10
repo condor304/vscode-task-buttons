@@ -1,0 +1,34 @@
+{
+  "buttons": [
+    {
+      "name": "Build",
+      "task": "build",
+      "icon": "🔨",
+      "tooltip": "Build the project"
+    },
+    {
+      "name": "Test",
+      "task": "test",
+      "icon": "🧪",
+      "tooltip": "Run all tests"
+    },
+    {
+      "name": "Dev",
+      "task": "dev",
+      "icon": "🚀",
+      "tooltip": "Start development server"
+    },
+    {
+      "name": "Lint",
+      "task": "lint",
+      "icon": "✨",
+      "tooltip": "Run linter"
+    },
+    {
+      "name": "Clean",
+      "task": "clean",
+      "icon": "🧹",
+      "tooltip": "Clean build artifacts"
+    }
+  ]
+}
