@@ -1,11 +1,28 @@
 {
   "name": "task-buttons",
-  "displayName": "Task Buttons",
-  "description": "Add configurable task buttons to the status bar",
-  "version": "0.0.1",
+  "displayName": "Simple Task Buttons",
+  "description": "Add configurable task buttons to the status bar for quick execution of workspace tasks",
+  "keywords": [
+    "tasks",
+    "status bar",
+    "buttons",
+    "quick access",
+    "workspace",
+    "productivity",
+    "toolbar",
+    "task runner"
+  ],
+  "version": "1.0.1",
+  "publisher": "Condor304",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.74.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/condor304/vscode-task-buttons.git"
+  },
+  "license": "MIT",
   "categories": [
     "Other"
   ],
